@@ -1,1 +1,2 @@
-# fps_server
+# 关于fps_seber
+由于时间有些匆忙，该仓库暂时不用
